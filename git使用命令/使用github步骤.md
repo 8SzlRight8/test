@@ -33,7 +33,7 @@ git init
 //添加到暂存区
 git add .
 
-//或取状态值
+//获取状态值
 git status
 
 //添加到GitHub仓库

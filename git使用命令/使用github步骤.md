@@ -44,7 +44,7 @@ git commit -m 'add a file'
 
 ## 二、建立远程连接
 
-### 1、获取公匙
+### 1、获取公匙 （需详细）
 
 ~~~
 ssh-keygen -t rsa -b 4096 -C “1767653980@qq.com”
